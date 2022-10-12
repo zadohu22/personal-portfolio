@@ -4,11 +4,16 @@ import './index.css';
 // import App from './App';
 import Nav from './components/Nav';
 import Hero from './components/Hero';
+import Hero2 from './components/Hero2';
+import Projects from './components/Projects';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 	<>
-		<Nav />
+		{/* <Nav /> */}
 		<Hero />
+		<Projects />
+
+		{/* <Hero2 /> */}
 	</>
 );
