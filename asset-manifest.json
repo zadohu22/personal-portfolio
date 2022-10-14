@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.7611ddd5.css",
+    "main.js": "/personal-portfolio/static/js/main.c5f9cd78.js",
+    "static/media/4K_5.mp4": "/personal-portfolio/static/media/4K_5.3460ca57e713b7dad0d9.mp4",
+    "static/media/4K_5.webm": "/personal-portfolio/static/media/4K_5.fcc2e4d1c5e8ac7d03df.webm",
+    "static/media/water.psd.png": "/personal-portfolio/static/media/water.psd.cc76f3df5cdfa2dd1f1c.png",
+    "static/media/image.psd.png": "/personal-portfolio/static/media/image.psd.5d5e45d88ae4b8a01a6d.png",
+    "static/media/received_787813755812499-modified.png": "/personal-portfolio/static/media/received_787813755812499-modified.5df7835540fd346659ca.png",
+    "static/media/pokemon.png": "/personal-portfolio/static/media/pokemon.213eac4a5b0358baa30a.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.7611ddd5.css.map": "/personal-portfolio/static/css/main.7611ddd5.css.map",
+    "main.c5f9cd78.js.map": "/personal-portfolio/static/js/main.c5f9cd78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7611ddd5.css",
+    "static/js/main.c5f9cd78.js"
+  ]
+}
